@@ -1,19 +1,9 @@
-var path = require("path");
+//create router and path dependencies
 
-module.exports = function(app) {
+//reouter.get
+  //notes, sendFile to notes.html
 
-    
-  app.get("/index", function(req, res) {
-    res.sendFile(path.join(__dirname, "../public/index.html"));
-  });
+  //get home page, send to index.html
 
-  app.get("/notes", function(req, res) {
-    res.sendFile(path.join(__dirname, "../public/notes.html"));
-  });
-
-  // If no matching route is found default to home
-  app.get("*", function(req, res) {
-    res.sendFile(path.join(__dirname, "../public/index.html"));
-  });
-};
+//export router 
 
