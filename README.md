@@ -1,4 +1,5 @@
 <h1 align=center>Note Taker</h1>
+
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
 
 - Link to GitHub repository: https://github.com/Tzcodes101/noteTaker2
@@ -7,9 +8,13 @@
 ## Description
 This application is for users who have a lot of information to keep track of. The ability to keep track of tasks and thoughts via a notetaking system will help with organization. This application can be used to write, save, and delete notes. This application uses an express backend to save, retrieve, and delete note data from a JSON file.
 
+The initial commit for this poject was made from one of my previous repositories, which can be found here: https://github.com/Tzcodes101/noteTaker.
 
-![Getting Started](Screenshots/notetaker1.jpg)
-![Getting Started](Screenshots/notetaker2.jpg)
+Below are two screenshots of the application:
+
+
+![Getting Started](./Screenshots/notetaker1.jpg)
+![Getting Started](./Screenshots/notetaker2.jpg)
 
 ## Table of Contents
 - [Description](#Description)
