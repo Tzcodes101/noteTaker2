@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
 
 - Link to GitHub repository: https://github.com/Tzcodes101/noteTaker2
-- Link to deployed application: 
+- Link to deployed application: https://hidden-cove-29913.herokuapp.com/notes
 
 ## Description
 This application is for users who have a lot of information to keep track of. The ability to keep track of tasks and thoughts via a notetaking system will help with organization. This application can be used to write, save, and delete notes. This application uses an express backend to save, retrieve, and delete note data from a JSON file.
